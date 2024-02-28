@@ -8,8 +8,8 @@
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
 ## PROGRAM
-```
 CLIENT:
+```
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -28,7 +28,9 @@ while True:
         if ack:
            print(ack)
            i+=s
+```
 SERVER:
+```
 import socket
 s=socket.socket()
 s.connect(('localhost',8000)
@@ -37,5 +39,10 @@ while True:
  s.send("acknowledgement recived from the server".encode())
  ```
 ## OUPUT
+client:
+![Screenshot 2024-02-28 152132](https://github.com/mades2112/2b_SLIDING_WINDOW_PROTOCOL/assets/152461996/a6982928-9cd5-46c0-b813-e2ee6df9e465)
+server:
+![Screenshot 2024-02-28 152159](https://github.com/mades2112/2b_SLIDING_WINDOW_PROTOCOL/assets/152461996/d7ed331b-0aaa-4b85-bb7d-c6f00d1cf69e)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
