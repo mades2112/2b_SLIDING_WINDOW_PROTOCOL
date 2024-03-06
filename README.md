@@ -40,8 +40,11 @@ while True:
  ```
 ## OUPUT
 client:
+
 ![Screenshot 2024-02-28 152132](https://github.com/mades2112/2b_SLIDING_WINDOW_PROTOCOL/assets/152461996/a6982928-9cd5-46c0-b813-e2ee6df9e465)
+
 server:
+
 ![Screenshot 2024-02-28 152159](https://github.com/mades2112/2b_SLIDING_WINDOW_PROTOCOL/assets/152461996/d7ed331b-0aaa-4b85-bb7d-c6f00d1cf69e)
 
 ## RESULT
