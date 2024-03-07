@@ -1,5 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
+To write a python program to perform a IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
@@ -48,4 +49,4 @@ server:
 ![Screenshot 2024-02-28 152159](https://github.com/mades2112/2b_SLIDING_WINDOW_PROTOCOL/assets/152461996/d7ed331b-0aaa-4b85-bb7d-c6f00d1cf69e)
 
 ## RESULT
-Thus, python program to perform stop and wait protocol was successfully executed
+Thus, python program to perform IMPLEMENTATION OF SLIDING WINDOW PROTOCOL was successfully executed
